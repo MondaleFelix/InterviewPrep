@@ -29,12 +29,13 @@ def minimum_window_sort(nums):
 	left = 0
 	right = len(nums) - 1
 
-	while nums[left] < nums[left + 1] and left < len(nums) - 2:
 
-		if left == len(nums) - 1:
-			return 0
- 
+
+	while left < len(nums) - 1 and nums[left] < nums[left + 1]:
 		left += 1
+
+	if left == len(nums) - 1:
+		return 0
 
 	while nums[right] > nums[right - 1] and right > 0:
 		right -= 1
