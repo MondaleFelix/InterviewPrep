@@ -42,12 +42,6 @@ def longest_substring_with_same_letters_after_replacement(str, k):
 
 
 		while (window_end - window_start + 1) - max_replacement_count > k:
-			left_char = str[window_start]
-
-			char_frequency[left_char] -= 1
-			if char_frequency[left_char] == 0:
-				char_frequency.pop(left_char)
-
 			window_start += 1
 
 		max_length = max(max_length, window_end - window_start + 1)
