@@ -1,0 +1,15 @@
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/bin/Debug/net7.0/Pangram
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/bin/Debug/net7.0/Pangram.deps.json
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/bin/Debug/net7.0/Pangram.runtimeconfig.json
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/bin/Debug/net7.0/Pangram.dll
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/bin/Debug/net7.0/Pangram.pdb
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.csproj.AssemblyReference.cache
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.AssemblyInfoInputs.cache
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.AssemblyInfo.cs
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.csproj.CoreCompileInputs.cache
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.dll
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/refint/Pangram.dll
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.pdb
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/Pangram.genruntimeconfig.cache
+/Users/mondalework/code/InterviewPrep/Pangram/Pangram/Pangram/obj/Debug/net7.0/ref/Pangram.dll
