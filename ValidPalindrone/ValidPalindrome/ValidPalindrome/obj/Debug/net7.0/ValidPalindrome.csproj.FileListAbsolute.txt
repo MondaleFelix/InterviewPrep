@@ -1,0 +1,15 @@
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.csproj.AssemblyReference.cache
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.AssemblyInfoInputs.cache
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.AssemblyInfo.cs
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.csproj.CoreCompileInputs.cache
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/bin/Debug/net7.0/ValidPalindrome
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/bin/Debug/net7.0/ValidPalindrome.deps.json
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/bin/Debug/net7.0/ValidPalindrome.runtimeconfig.json
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/bin/Debug/net7.0/ValidPalindrome.dll
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/bin/Debug/net7.0/ValidPalindrome.pdb
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.dll
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/refint/ValidPalindrome.dll
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.pdb
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ValidPalindrome.genruntimeconfig.cache
+/Users/mondalework/code/InterviewPrep/ValidPalindrone/ValidPalindrome/ValidPalindrome/obj/Debug/net7.0/ref/ValidPalindrome.dll
